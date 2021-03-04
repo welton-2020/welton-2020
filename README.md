@@ -1,4 +1,3 @@
- Welton Dias
 <p align="left">
 <a href="https://www.linkedin.com/in/welton-dias-6a1b5aa2/" target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
  alt="www.linkedin.com/in/welton-dias-6a1b5aa2/" height="25" width="80" /></a>
