@@ -18,6 +18,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="28"/></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="28"/></a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-ar21.svg" alt="git" width="60" height="50"/></a>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="git" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="git" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="git" width="40" height="40"/></a>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="35"/></a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="sql" width="40" height="40"/> </a>
